@@ -7,6 +7,9 @@ for add every file that exist in folder
 **git remote add origin [my repo url]**
 add remote repo in github for push local files in github repo
 
+**check if we are in remote**
+git remote -v
+
 **git fetch origin**
 to work on remote and not local
 
